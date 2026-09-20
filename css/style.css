@@ -1048,7 +1048,7 @@ button {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 70px;
-  align-items: stretch;
+  align-items: start;
 }
 
 .contact-copy p {
